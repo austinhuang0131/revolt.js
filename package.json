@@ -1,10 +1,10 @@
 {
-  "name": "revolt.js",
+  "name": "@austinhuang/revolt.js",
   "version": "7.0.0-beta.11",
   "main": "lib/cjs/index.js",
   "module": "lib/esm/index.js",
   "types": "lib/esm/index.d.ts",
-  "repository": "https://github.com/revoltchat/revolt.js",
+  "repository": "https://github.com/austinhuang0131/revolt.js",
   "author": "Paul Makles <insrt.uk>",
   "license": "MIT",
   "scripts": {
@@ -23,7 +23,7 @@
     "README.md",
     "lib"
   ],
-  "description": "Library for interacting with the Revolt API.",
+  "description": "Library for interacting with the Revolt API. (with PR #97)",
   "packageManager": "pnpm@8.6.5",
   "dependencies": {
     "@mxssfd/typedoc-theme": "^1.1.3",
